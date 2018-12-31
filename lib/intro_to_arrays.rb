@@ -1,2 +1,2 @@
 def instantiate_new_array(array)
-  array = Array.new
+  my__new_array = Array.new
